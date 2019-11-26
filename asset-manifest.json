@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.7476a975.chunk.css",
+    "main.css": "/static/css/main.d9c77f51.chunk.css",
     "main.js": "/static/js/main.b3f47136.chunk.js",
     "main.js.map": "/static/js/main.b3f47136.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3c2d1558.js",
@@ -8,9 +8,9 @@
     "static/js/2.72763d22.chunk.js": "/static/js/2.72763d22.chunk.js",
     "static/js/2.72763d22.chunk.js.map": "/static/js/2.72763d22.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.900283e1305b4e0bb2eea8d66466b971.js": "/precache-manifest.900283e1305b4e0bb2eea8d66466b971.js",
+    "precache-manifest.d181926c7f4753e3ef121cd2d91ffba7.js": "/precache-manifest.d181926c7f4753e3ef121cd2d91ffba7.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.7476a975.chunk.css.map": "/static/css/main.7476a975.chunk.css.map",
+    "static/css/main.d9c77f51.chunk.css.map": "/static/css/main.d9c77f51.chunk.css.map",
     "static/media/index.css": "/static/media/Yesteryear-Regular.346c3e47.ttf",
     "static/media/github.67910a24.svg": "/static/media/github.67910a24.svg",
     "static/media/instagram.b0503764.svg": "/static/media/instagram.b0503764.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.3c2d1558.js",
     "static/js/2.72763d22.chunk.js",
-    "static/css/main.7476a975.chunk.css",
+    "static/css/main.d9c77f51.chunk.css",
     "static/js/main.b3f47136.chunk.js"
   ]
 }
